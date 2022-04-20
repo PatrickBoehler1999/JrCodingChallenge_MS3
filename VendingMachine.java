@@ -42,7 +42,6 @@ public class VendingMachine {
 	 
 	//Custom class that contains item price, amount, and name
 	public static class Item {
-		//Currently Unused
 		String name;
 		float price;
 		Integer amount;
@@ -95,7 +94,6 @@ public class VendingMachine {
 		FileReader reader;
 		Item[][] machine = new Item[0][0];
 		try {
-			//Need to change this to user input variable
 			reader = new FileReader(fileName); 
 			JSONTokener tokener = new JSONTokener(reader);
 			JSONObject root = new JSONObject(tokener);
@@ -234,7 +232,6 @@ public class VendingMachine {
 			x++;
 		}
 		System.out.println("");
-		
 		for(int i = 0; i < columns; i++) {
 			System.out.print("|  ");
 			for(int j = 0; j < rows; j++) {
