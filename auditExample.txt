@@ -1,0 +1,60 @@
+-Starting up Machine
+-Beginning Initial Setup
+-Succesfully Read JSON File
+-Machine Succesfully Stocked
+-Initial Setup Complete
+-Starting Menu
+-Displaying Machine to Console
+-Quitting Menu
+-Program Terminated
+
+-Starting up Machine
+-Beginning Initial Setup
+-Succesfully Read JSON File
+-Machine Succesfully Stocked
+-Initial Setup Complete
+-Starting Menu
+-Displaying Machine to Console
+-Quitting Menu
+-Program Terminated
+
+-Starting up Machine
+-Beginning Initial Setup
+-Succesfully Read JSON File
+-Machine Succesfully Stocked
+-Initial Setup Complete
+-Starting Menu
+-Quitting Menu
+-Program Terminated
+
+-Starting up Machine
+-Beginning Initial Setup
+-Succesfully Read JSON File
+-Machine Succesfully Stocked
+-Initial Setup Complete
+-Starting Menu
+-Taking Order
+-Requesting User for Input
+-User Input = A2
+-Item Selected: Hersheys Almond | Total Cost: $1.8 | 10 in stock
+-Taking Payment from User
+-Valid Payment Given: 1.8
+-Hersheys Almond Dispensed
+-No change dispensed
+-Taking Order
+-Requesting User for Input
+-User Input = C4
+-User Gave Invalid Selection: C4
+-Requesting User for Input
+-User Input = C3
+-Selected Item was Empty
+-Taking Order
+-Requesting User for Input
+-User Input = B2
+-Item Selected: Baby Ruth | Total Cost: $2.5 | 10 in stock
+-Taking Payment from User
+-Not Enough Money Input for Transaction: 2.4
+-$2.4 Dispensed
+-Displaying Machine to Console
+-Quitting Menu
+-Program Terminated
